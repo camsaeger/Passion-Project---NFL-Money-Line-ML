@@ -1,2 +1,2 @@
-# Passion-Project---NFL-Money-Learn-ML
+# Passion-Project---NFL-Money-Line-ML
 Cam and Kasen Saeger
